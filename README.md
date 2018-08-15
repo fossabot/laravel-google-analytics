@@ -3,7 +3,6 @@
 [![Latest Stable Version](https://poser.pugx.org/gonoware/laravel-google-analytics/v/stable?format=flat-square)](https://packagist.org/packages/gonoware/laravel-google-analytics)
 [![Latest Unstable Version](https://poser.pugx.org/gonoware/laravel-google-analytics/v/unstable?format=flat-square)](https://packagist.org/packages/gonoware/laravel-google-analytics)
 [![License](https://poser.pugx.org/gonoware/laravel-google-analytics/license?format=flat-square)](https://packagist.org/packages/gonoware/laravel-google-analytics)
-[![Laravel version](https://img.shields.io/badge/Laravel-^5.5-orange.svg?style=flat-square)](https://laravel.com/docs/5.5)
 [![GitHub issues](https://img.shields.io/github/issues/gonoware/laravel-google-analytics.svg?style=flat-square)](https://github.com/gonoware/laravel-google-analytics/issues)
 [![Total Downloads](https://poser.pugx.org/gonoware/laravel-google-analytics/downloads?format=flat-square)](https://packagist.org/packages/gonoware/laravel-google-analytics)
 
