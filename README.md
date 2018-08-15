@@ -19,13 +19,13 @@ In Laravel 5.5 and above the package will autoregister the service provider.
 
 Publish the compiled assets to `public/vendor/google-analytics` with this command:
 ```bash
-php artisan vendor:publish --provider="GoNoWare\GoogleAnalytics\ServiceProvider" --tag=public
+php artisan vendor:publish --provider=GoNoWare\GoogleAnalytics\ServiceProvider --tag=public
 ```
 
 
 Optionally, you can also publish the config file of this package with this command to `config/vendor/google_analytics.php`:
 ```bash
-php artisan vendor:publish --provider="GoNoWare\GoogleAnalytics\ServiceProvider" --tag=config
+php artisan vendor:publish --provider=GoNoWare\GoogleAnalytics\ServiceProvider --tag=config
 ```
 The config file will be published in .
 
