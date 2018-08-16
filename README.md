@@ -5,6 +5,7 @@
 [![License](https://poser.pugx.org/gonoware/laravel-google-analytics/license?format=flat-square)](https://packagist.org/packages/gonoware/laravel-google-analytics)
 [![GitHub issues](https://img.shields.io/github/issues/gonoware/laravel-google-analytics.svg?style=flat-square)](https://github.com/gonoware/laravel-google-analytics/issues)
 [![Total Downloads](https://poser.pugx.org/gonoware/laravel-google-analytics/downloads?format=flat-square)](https://packagist.org/packages/gonoware/laravel-google-analytics)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgonoware%2Flaravel-google-analytics.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgonoware%2Flaravel-google-analytics?ref=badge_shield)
 
 Using this package you can easily add Google Analytics to your website.
 
@@ -59,3 +60,6 @@ This project exists thanks to [all the people](https://github.com/gonoware/larav
  
 Copyright (c) 2018-present Go NoWare
  
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgonoware%2Flaravel-google-analytics.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgonoware%2Flaravel-google-analytics?ref=badge_large)
